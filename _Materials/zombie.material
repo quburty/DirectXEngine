@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Materials xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Material>
+        <Name>Ch30_Body1</Name>
+        <DiffuseFile>Ch30_1002_Diffuse.png</DiffuseFile>
+        <SpecularFile>Ch30_1002_Specular.png</SpecularFile>
+        <NormalFile>Ch30_1002_Normal.png</NormalFile>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="20"/>
+    </Material>
+    <Material>
+        <Name>Ch30_Body</Name>
+        <DiffuseFile>Ch30_1001_Diffuse.png</DiffuseFile>
+        <SpecularFile>Ch30_1001_Specular.png</SpecularFile>
+        <NormalFile>Ch30_1001_Normal.png</NormalFile>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="20"/>
+    </Material>
+</Materials>
